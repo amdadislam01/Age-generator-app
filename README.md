@@ -1,4 +1,4 @@
-# 🧮 Age Calculator Web Ap
+# 🧮 Age Calculator Web App
 
 A simple and clean web application to calculate your age based on your date of birth. Built using **HTML**, **CSS**, and **JavaScript**. 🌟
 
