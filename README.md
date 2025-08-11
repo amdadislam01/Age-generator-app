@@ -1,8 +1,8 @@
-# 🧮 Age Calculator Web Ap
+# 🧮 Age Calculator Web App
 
 A simple and clean web application to calculate your age based on your date of birth. Built using **HTML**, **CSS**, and **JavaScript**. 🌟
 
-# 🔍 Live Search Bar
+# 🔍 Live Search 
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://age-01.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amdadislam01/Age-generator-app)
