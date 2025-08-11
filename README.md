@@ -17,7 +17,7 @@ A simple and clean web application to calculate your age based on your date of b
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,netlify" alt="Tech Stack" width="300"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,netlify,github" alt="Tech Stack" width="300"/>
 </p>
 
 
