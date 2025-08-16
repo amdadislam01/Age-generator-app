@@ -48,5 +48,5 @@ This project is open-source and available under the MIT License.
 
 ---
 
-**Developed with ❤️ by [Your Name]**  
+**Developed with ❤️ by Amdad Islam**  
 [![GitHub Follow](https://img.shields.io/github/followers/amdadislam01?style=social)](https://github.com/amdadislam01)
