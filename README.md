@@ -24,7 +24,7 @@ A responsive and intuitive web application that accurately calculates age based 
 ## 📸 Application Screenshots
 
 ### Desktop View
-<img src="https://i.postimg.cc/fRn5jcHc/screenshot-2025-07-17-11-28-21.png" alt="Desktop Interface" width="800"/>
+<img src="https://i.postimg.cc/fRn5jcHc/screenshot-2025-07-17-11-28-21.png" alt="Desktop Interface" width="900"/>
 
 ### Mobile Responsive View
 <img src="https://i.postimg.cc/sfMtTJJq/screenshot-2025-07-17-11-28-49.png" alt="Mobile Interface" width="300"/>
