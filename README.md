@@ -1,4 +1,4 @@
-# 📅 Age Calculator Web Applicatio
+# 📅 Age Calculator Web Application
 
 A responsive and intuitive web application that accurately calculates age based on date of birth input. Built with modern frontend technologies for seamless user experience.
 
